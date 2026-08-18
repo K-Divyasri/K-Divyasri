@@ -47,7 +47,7 @@ Software/ML engineer and graduate researcher building production-grade ML, data,
 
 ✔ **Production RAG Platform** — hybrid BM25 + vector search (Qdrant) with reciprocal-rank fusion and cross-encoder reranking, lifting retrieval MRR **0.472 → 0.933**; eval-gated CI harness blocks any deploy that regresses it.
 
-✔ **MRSI Reconstruction Pipeline** *(Sunnybrook Research Institute)* — rewrote the core signal-processing step of a multi-nuclear MRSI pipeline, cutting reconstruction time **~100x** (tens of minutes → seconds); validated sub-pixel accuracy against two independent reference pipelines; extends tools cited 500+ times and used by ~500 researchers.
+✔ **MRSI Reconstruction Pipeline** *(Sunnybrook Research Institute)* — rewrote the core signal-processing step of a multi-nuclear MRSI pipeline, turning raw scan data into interactive, clinician-ready visual renders; validated sub-pixel accuracy against two independent reference pipelines; extends tools cited 500+ times and used by ~500 researchers.
 
 ✔ **Agent Trajectory Evaluation Harness** — scores whole agent transcripts (tool-call correctness, task completion, error recovery, step efficiency) instead of a single answer, combining programmatic metrics with an LLM-as-judge pass.
 
