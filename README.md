@@ -92,8 +92,6 @@ Software/ML engineer and graduate researcher building production-grade ML, data,
 
 <img src="https://raw.githubusercontent.com/K-Divyasri/K-Divyasri/output/pink-snake.svg" alt="Contribution Snake"/>
 
-<sub>(renders after the "Generate Snake" Action runs once — see <code>.github/workflows/snake.yml</code> in this repo)</sub>
-
 </div>
 
 <br/>
