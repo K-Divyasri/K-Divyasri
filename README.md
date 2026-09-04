@@ -82,7 +82,7 @@ Software/ML engineer and graduate researcher building production-grade ML, data,
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Divyasri&hide_border=true&background=00000000&ring=FF69B4&fire=EF93C4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=F8BBD0" width="48%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=K-Divyasri&hide_border=true&background=00000000&ring=FF69B4&fire=EF93C4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=F8BBD0" width="48%" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=K-Divyasri&theme=react-dark&hide_border=true&bg_color=00000000&color=FF69B4&line=EF93C4&point=F8BBD0&area=true&area_color=F8BBD0" width="95%" alt="Activity Graph"/>
 
