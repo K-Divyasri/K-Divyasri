@@ -105,11 +105,11 @@ Software/ML engineer and graduate researcher building production-grade ML, data,
 
 ## ✨ Featured Repositories
 
-🔎 **Production RAG Platform** — [09-rag-real-knowledge-base](https://github.com/K-Divyasri/09-rag-real-knowledge-base)
-🔌 **MCP Server + Client** — [24-mcp-server-client](https://github.com/K-Divyasri/24-mcp-server-client)
-🧭 **Agent Trajectory Eval Harness** — [38-agent-trajectory-eval-harness](https://github.com/K-Divyasri/38-agent-trajectory-eval-harness)
-🏥 **HIPAA De-Identification** — [01_hipaa_deidentification](https://github.com/K-Divyasri/01_hipaa_deidentification)
-📈 **Pairs-Trading Stat-Arb Engine** — [01-pairs-trading-statarb](https://github.com/K-Divyasri/01-pairs-trading-statarb)
+🔎 **Production RAG Platform** — [rag-real-knowledge-base](https://github.com/K-Divyasri/rag-real-knowledge-base)
+🔌 **MCP Server + Client** — [mcp-server-client](https://github.com/K-Divyasri/mcp-server-client)
+🧭 **Agent Trajectory Eval Harness** — [agent-trajectory-eval-harness](https://github.com/K-Divyasri/agent-trajectory-eval-harness)
+🏥 **HIPAA De-Identification** — [hipaa_deidentification](https://github.com/K-Divyasri/hipaa_deidentification)
+📈 **Pairs-Trading Stat-Arb Engine** — [pairs-trading-statarb](https://github.com/K-Divyasri/pairs-trading-statarb)
 🧠 **Python FID-A MRSI Reconstruction** — [python-fida](https://github.com/K-Divyasri/python-fida)
 
 <div align="center">
